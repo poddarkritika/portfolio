@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
@@ -58,7 +58,7 @@ copyright = "All right reserved copyright © KritikaPoddar 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/xbjqnokq"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "/images/site-navigation/logo9.png"
+logo = "images/site-navigation/logo9.png"
 
 [params.address]
 address = "T7, Sri Durga Palmgrove, 4 th Cross, 80ft Road, Kormangala, Bengaluru-560095"
