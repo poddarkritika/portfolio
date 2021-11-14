@@ -4,9 +4,8 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  I'm a qualified Chartered Accountant and Company Secretary with 5+ years of experience in indirect taxation
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -14,44 +13,39 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### C.A
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2015-2016
+  - content: >
+      #### C.S
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2008-2010
   - content: >
-      #### Master in Arts
+      #### B.Com (H) in Finance and Accounting
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: 2012-2014
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Dhruva Advisors LLP (Senior Associate)
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+    time: Jult 2020 - Present
   - content: >
-      #### Aperture Science 
+      #### NITYA Tax Associates (Senior Associate)
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+    time: Aug, 2016 - May, 2018
   - content: >
-      #### ACME Inc. 
+      #### A. K. Poddar & Associates (Article Assistant, Senior Assistant)
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+    time: May 2014 - July 2016
   - content: >
-      #### LexCorp 
+      #### S.S Kothari & Co. (Article Assistant)
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+    time: Sep, 2012- Mar, 2014
