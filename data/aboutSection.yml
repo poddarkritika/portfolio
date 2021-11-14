@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+content: >
+  ### I design and build ultimate things.
+
+  I'm a qualified Chartered Accountant and Company Secretary with 5 plus years of
+  experience in indirect taxation post qualification. I have handled compliance, advisory
+   and litigation matters in indirect taxation
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: "https://drive.google.com/file/d/1mDjJSH1zOLKHxpTz1Dv1PQuadHG3VNu4/view"
+image: images/about/about-img.jpg
