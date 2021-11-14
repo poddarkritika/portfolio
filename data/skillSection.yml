@@ -6,12 +6,12 @@ content: >
 
   I'm the best and cute also. What more do you want?
 
-image: images/skill/skill_image1.jpeg
+image: images/skill/skill_image2.jpg
 
 skill:
-  - title: Cuteness
+  - title: Litigation
     percent: 99
-  - title: Sexy voice
+  - title: Advisory
     percent: 95
-  - title: Friend
-    percent: 100
+  - title: GST Audit
+    percent: 80
