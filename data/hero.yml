@@ -2,12 +2,11 @@
 enable: true
 topTitle: Hello, I am Kritika Poddar
 content: >
-  # I am here for your personal business
+  # I'm a CA affiliated with Poddar Assoc.
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  Get professional consultancy in finance, taxation and various fields by
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/kp-base.jpg
+image: images/hero/kp-base.jpeg
 # videoThumb:
 # videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
